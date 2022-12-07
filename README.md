@@ -1,4 +1,4 @@
 # Electronic-Combination-Lock
 Implemented 4-digit combination lock with digital electronic chips
 ![Screenshot](LockCircuit.jpg)
-![Screenshot](LOCK_1.jpg)
+![Screenshot](LOCK_1.png)
