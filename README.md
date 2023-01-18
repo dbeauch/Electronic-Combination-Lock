@@ -1,5 +1,5 @@
 # Electronic-Combination-Lock
- This is a repository containing my final project for PHYS 3150 Electronics Lab. The circuit shown is a 4-digit configurable combination lock designed with digital logic chips. More information can be found in the [report](https://github.com/dbeauch/Electronic-Combination-Lock/blob/main/4-Digit%20Combination%20Lock%20Report.pdf)
+This is a repository containing my final project for PHYS 3150 Electronics Lab. The circuit shown is a 4-digit configurable combination lock designed with digital logic chips. More information can be found in the [report](https://github.com/dbeauch/Electronic-Combination-Lock/blob/main/4-Digit%20Combination%20Lock%20Report.pdf).
 <p align = "center">
 <br />
 <img width = "500" src = "CircuitLock.jpg"> <br />
